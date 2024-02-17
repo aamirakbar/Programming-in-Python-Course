@@ -1,4 +1,4 @@
-# Programming in Python Course
+# Programming in Python
 
 **Dr. Aamir Akbar**  
 [https://aamirakbar.com](https://aamirakbar.com)  
