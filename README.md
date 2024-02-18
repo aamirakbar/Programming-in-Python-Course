@@ -66,9 +66,9 @@ This course introduces students to the fundamentals of Object-Oriented Programmi
     - Handling exceptions and errors in Python.
     - Using try, except, and finally blocks.
 
-14. **Week 14 (Class Project Discussion):**
-    - Discussion of real-world class projects relevant to the course content.
+14. **Week 14 (Unit Testing):**
+    - Discussion of Unit Testing in software project development.
 
-15. **Week 15 (Exam Revision and Preparation):**
-    - Preparing for the final exam.
+15. **Week 15 (Functional Programming):**
+    - Python Lambda functions, decorators, generators, zip, map, reduce. 
     - Reviewing key concepts and topics from the course.
